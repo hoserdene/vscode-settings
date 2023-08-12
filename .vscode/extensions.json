@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "streetsidesoftware.code-spell-checker",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json"
+  ]
+}
